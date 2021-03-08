@@ -1,0 +1,9 @@
+C:\Users\petro\Desktop\Škola\+Švec PVA\Shopping list\Shopping list\bin\Debug\Shopping list.exe.config
+C:\Users\petro\Desktop\Škola\+Švec PVA\Shopping list\Shopping list\bin\Debug\Shopping list.exe
+C:\Users\petro\Desktop\Škola\+Švec PVA\Shopping list\Shopping list\bin\Debug\Shopping list.pdb
+C:\Users\petro\Desktop\Škola\+Švec PVA\Shopping list\Shopping list\obj\Debug\Shopping list.csprojAssemblyReference.cache
+C:\Users\petro\Desktop\Škola\+Švec PVA\Shopping list\Shopping list\obj\Debug\Shopping_list.Form1.resources
+C:\Users\petro\Desktop\Škola\+Švec PVA\Shopping list\Shopping list\obj\Debug\Shopping_list.Properties.Resources.resources
+C:\Users\petro\Desktop\Škola\+Švec PVA\Shopping list\Shopping list\obj\Debug\Shopping list.csproj.GenerateResource.cache
+C:\Users\petro\Desktop\Škola\+Švec PVA\Shopping list\Shopping list\obj\Debug\Shopping list.exe
+C:\Users\petro\Desktop\Škola\+Švec PVA\Shopping list\Shopping list\obj\Debug\Shopping list.pdb
